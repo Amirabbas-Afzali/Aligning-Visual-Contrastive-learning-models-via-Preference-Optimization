@@ -1,0 +1,25 @@
+tokenized dataset
+Number of classes: 101
+Test dataset size: 5120
+Num iters_per_epoch : 10
+Loaded!
+==================================================
+Final inference kto version on food dataset: 
+
+Accuracy On Oringinal Dataset:
+
+              EMA Policy : 0.7760,
+
+              BMA Policy : 0.7708,
+
+              Ref Acc: 0.7832,
+
+
+Accuracy On Typographic Dataset:
+
+              EMA Policy : 0.7099,
+
+              BMA Policy : 0.7174,
+
+              Ref Acc: 0.5126
+End.

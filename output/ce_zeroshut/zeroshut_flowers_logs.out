@@ -1,0 +1,21 @@
+tokenized dataset
+Number of classes: 0
+Test dataset size: 1010
+Num iters_per_epoch : 10
+Loaded!
+==================================================
+Final inference CE version on flowers dataset: 
+
+Accuracy On Oringinal Dataset:
+
+              CE Policy : 0.5743,
+
+              Ref Acc: 0.6663,
+
+
+Accuracy On Typographic Dataset:
+
+              CE Policy : 0.5673,
+
+              Ref Acc: 0.3347
+End.

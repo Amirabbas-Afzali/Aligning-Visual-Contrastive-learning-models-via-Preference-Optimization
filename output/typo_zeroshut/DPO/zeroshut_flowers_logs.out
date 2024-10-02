@@ -1,0 +1,25 @@
+tokenized dataset
+Number of classes: 102
+Test dataset size: 1010
+Num iters_per_epoch : 10
+Loaded!
+==================================================
+Final inference dpo version on flowers dataset: 
+
+Accuracy On Oringinal Dataset:
+
+              EMA Policy : 0.5610,
+
+              BMA Policy : 0.5660,
+
+              Ref Acc: 0.6670,
+
+
+Accuracy On Typographic Dataset:
+
+              EMA Policy : 0.5520,
+
+              BMA Policy : 0.5570,
+
+              Ref Acc: 0.3350
+End.

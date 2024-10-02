@@ -1,0 +1,25 @@
+tokenized dataset
+Number of classes: 0
+Test dataset size: 5120
+Num iters_per_epoch : 10
+Loaded!
+==================================================
+Final inference kto version on eurosat dataset: 
+
+Accuracy On Oringinal Dataset:
+
+              EMA Policy : 0.4605,
+
+              BMA Policy : 0.4627,
+
+              Ref Acc: 0.4388,
+
+
+Accuracy On Typographic Dataset:
+
+              EMA Policy : 0.3470,
+
+              BMA Policy : 0.3694,
+
+              Ref Acc: 0.0688
+End.

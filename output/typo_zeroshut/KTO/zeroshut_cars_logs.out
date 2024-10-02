@@ -1,0 +1,25 @@
+tokenized dataset
+Number of classes: 0
+Test dataset size: 8063
+Num iters_per_epoch : 10
+Loaded!
+==================================================
+Final inference kto version on cars dataset: 
+
+Accuracy On Oringinal Dataset:
+
+              EMA Policy : 0.5695,
+
+              BMA Policy : 0.5776,
+
+              Ref Acc: 0.5738,
+
+
+Accuracy On Typographic Dataset:
+
+              EMA Policy : 0.3679,
+
+              BMA Policy : 0.3704,
+
+              Ref Acc: 0.2171
+End.

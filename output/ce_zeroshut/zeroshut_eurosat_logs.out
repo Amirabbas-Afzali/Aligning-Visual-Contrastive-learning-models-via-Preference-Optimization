@@ -1,0 +1,21 @@
+tokenized dataset
+Number of classes: 0
+Test dataset size: 5120
+Num iters_per_epoch : 10
+Loaded!
+==================================================
+Final inference CE version on eurosat dataset: 
+
+Accuracy On Oringinal Dataset:
+
+              CE Policy : 0.3623,
+
+              Ref Acc: 0.4373,
+
+
+Accuracy On Typographic Dataset:
+
+              CE Policy : 0.3742,
+
+              Ref Acc: 0.0686
+End.

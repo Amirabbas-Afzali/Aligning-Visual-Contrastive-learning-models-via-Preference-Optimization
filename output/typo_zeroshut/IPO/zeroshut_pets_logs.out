@@ -1,0 +1,25 @@
+tokenized dataset
+Number of classes: 0
+Test dataset size: 3633
+Num iters_per_epoch : 10
+Loaded!
+==================================================
+Final inference dpo version on pets dataset: 
+
+Accuracy On Oringinal Dataset:
+
+              EMA Policy : 0.8408,
+
+              BMA Policy : 0.8532,
+
+              Ref Acc: 0.8682,
+
+
+Accuracy On Typographic Dataset:
+
+              EMA Policy : 0.7894,
+
+              BMA Policy : 0.8044,
+
+              Ref Acc: 0.6201
+End.

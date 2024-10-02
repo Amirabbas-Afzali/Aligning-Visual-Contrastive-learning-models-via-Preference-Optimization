@@ -1,0 +1,21 @@
+tokenized dataset
+Number of classes: 0
+Test dataset size: 1862
+Num iters_per_epoch : 10
+Loaded!
+==================================================
+Final inference CE version on dtd dataset: 
+
+Accuracy On Oringinal Dataset:
+
+              CE Policy : 0.4012,
+
+              Ref Acc: 0.4227,
+
+
+Accuracy On Typographic Dataset:
+
+              CE Policy : 0.4044,
+
+              Ref Acc: 0.2540
+End.

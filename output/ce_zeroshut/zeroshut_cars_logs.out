@@ -1,0 +1,21 @@
+tokenized dataset
+Number of classes: 0
+Test dataset size: 5120
+Num iters_per_epoch : 10
+Loaded!
+==================================================
+Final inference CE version on cars dataset: 
+
+Accuracy On Oringinal Dataset:
+
+              CE Policy : 0.5305,
+
+              Ref Acc: 0.5725,
+
+
+Accuracy On Typographic Dataset:
+
+              CE Policy : 0.3887,
+
+              Ref Acc: 0.2211
+End.

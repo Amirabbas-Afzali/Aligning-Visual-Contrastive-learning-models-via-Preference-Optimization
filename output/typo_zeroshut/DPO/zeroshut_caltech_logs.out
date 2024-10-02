@@ -1,0 +1,26 @@
+Files already downloaded and verified
+tokenized dataset
+Number of classes: 0
+Test dataset size: 8591
+Num iters_per_epoch : 10
+Loaded!
+==================================================
+Final inference dpo version on caltech dataset: 
+
+Accuracy On Oringinal Dataset:
+
+              EMA Policy : 0.8758,
+
+              BMA Policy : 0.8750,
+
+              Ref Acc: 0.8884,
+
+
+Accuracy On Typographic Dataset:
+
+              EMA Policy : 0.8453,
+
+              BMA Policy : 0.8543,
+
+              Ref Acc: 0.6560
+End.

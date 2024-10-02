@@ -1,0 +1,25 @@
+tokenized dataset
+Number of classes: 0
+Test dataset size: 1862
+Num iters_per_epoch : 10
+Loaded!
+==================================================
+Final inference kto version on dtd dataset: 
+
+Accuracy On Oringinal Dataset:
+
+              EMA Policy : 0.3896,
+
+              BMA Policy : 0.4053,
+
+              Ref Acc: 0.4121,
+
+
+Accuracy On Typographic Dataset:
+
+              EMA Policy : 0.4033,
+
+              BMA Policy : 0.4074,
+
+              Ref Acc: 0.2490
+End.

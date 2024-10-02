@@ -1,0 +1,25 @@
+tokenized dataset
+Number of classes: 397
+Test dataset size: 5120
+Num iters_per_epoch : 10
+Loaded!
+==================================================
+Final inference dpo version on sun dataset: 
+
+Accuracy On Oringinal Dataset:
+
+              EMA Policy : 0.6107,
+
+              BMA Policy : 0.6102,
+
+              Ref Acc: 0.6102,
+
+
+Accuracy On Typographic Dataset:
+
+              EMA Policy : 0.5404,
+
+              BMA Policy : 0.5634,
+
+              Ref Acc: 0.3483
+End.
