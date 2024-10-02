@@ -273,10 +273,6 @@ class DPO_Model():
                 if idx > iters_per_epoch-2:
                     continue
 
-                # if (self.tensorboard) and (idx % 50 == 0):
-                    # torch.save(self.clip_policy.model.clip.visual_projection.weight
-                    #            , f'/home/ali.rasekh/ambo/final/Tensorboard/tiny/V3/{idx + epoch*iters_per_epoch}.pth')
-
 
                 # Forward pass for the typographic image
                 typo_images = torch.stack([typo_images[0][j] for j in range(len(typo_images[0]))], dim=0)
