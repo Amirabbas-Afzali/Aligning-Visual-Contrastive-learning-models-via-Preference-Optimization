@@ -1,6 +1,0 @@
-  0%|          | 0/7 [00:00<?, ?it/s]  0%|          | 0/7 [00:16<?, ?it/s]
-Traceback (most recent call last):
-  File "/home/ak-research-01 43%|████▎     | 3/7 [01:02<01:16, 19.10s/it] 57%|█████▋    | 4/7 [01:15<00:50, 16.72s/it] 71%|███████▏  | 5/7 [01:28<00:30, 15.28s/it]100%|██████████| 7/7 [01:28<00:00, 12.63s/it]
-ts/src/Models_zh_syn.py", line 361, in test
-    typo_images = torch.stack([typo_images[0][j] for j in range(len(typo_images[0]))], dim=0)
-KeyboardInterrupt
