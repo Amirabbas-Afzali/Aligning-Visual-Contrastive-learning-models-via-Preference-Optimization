@@ -36,7 +36,3 @@ If you find this work useful, please cite:
 
 This project is licensed under the MIT License.
 
-## Acknowledgements
-
-We thank the ICLR reviewers for their valuable feedback. The implementation builds on previous works in contrastive learning and preference optimization.
-
