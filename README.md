@@ -1,15 +1,15 @@
-# Aligning Visual Contrastive Learning Models via Preference Optimization
+## Aligning Visual Contrastive Learning Models via Preference Optimization
 
-![Method Overview](path_to_your_figure.png)
-
-This repository contains the code and experiments for our ICLR 2025 paper:
-
-**"Aligning Visual Contrastive Learning Models via Preference Optimization"**
+This repository contains code for the paper "Aligning Visual Contrastive Learning Models via Preference Optimization" (_ICLR 2025_).
 
 > **Authors:** Amirabbas Afzali, Borna Khodabandeh, Ali Rasekh, Mahyar JafariNodeh, Sepehr Kazemi, Simon Gottschalk  
 > **Conference:** ICLR 2025  
 > **ArXiv:** [arXiv:2411.08923](https://arxiv.org/abs/2411.08923)  
 > **OpenReview:** [ICLR 2025 Submission](https://openreview.net/forum?id=wgRQ2WAORJ)  
+
+
+![Method Overview](method.png)
+
 
 ## Abstract
 
